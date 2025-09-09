@@ -17,6 +17,7 @@ It is perfect for **startups, SaaS products, and tech companies** looking to cre
 The design focuses on **clear messaging, conversion-friendly layouts, and a modern aesthetic**.
 
 ### 🔥 Key Features:
+
 - 🌐 Fully responsive and mobile-friendly design  
 - 🎨 Minimal and modern UI for better user experience  
 - 📈 Perfect for startups, SaaS, and tech companies  
@@ -27,8 +28,7 @@ The design focuses on **clear messaging, conversion-friendly layouts, and a mode
 ## Built With
 
 - HTML5  
-- CSS3  
-- JavaScript  
+- CSS3 
 
 ---
 
